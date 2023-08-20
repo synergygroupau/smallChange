@@ -1,0 +1,14 @@
+---
+title: "How we match goods"
+---
+
+# Data-driven, community-actioned
+
+Using the latest census data, we look at the profiles of local schools and child care centres - considering their socioeconomic profile, growth, and other community factors such as welfare receipts to build a picture of where the demand for pre-loved children's clothing, uniforms, toys and equipment might be most appreciated.
+
+```{R profiles, echo=FALSE}
+
+#Get data from Lachy
+
+```
+
